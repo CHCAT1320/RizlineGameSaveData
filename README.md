@@ -1,1 +1,3 @@
 # RizlineGameSaveData
+
+获取游戏Rizline的游戏存档
