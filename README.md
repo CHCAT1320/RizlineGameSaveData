@@ -1,3 +1,4 @@
+
 # RizlineGameSaveData
 
 获取游戏Rizline律动轨迹的游戏存档
@@ -17,3 +18,5 @@
 禁止用该项目做不利于鸽游的事情，包括短信轰炸，频繁请求数据等
 
 该项目与鸽游无关
+
+感谢ChickenPige0n运用ai找到解密方法
